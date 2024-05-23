@@ -1,5 +1,3 @@
-# LLAMA2-RAG
-
 # Overview:
 This repository contains a Jupyter Notebook showcasing a Retrieval-Augmented Generation (RAG) implementation using an open-source Large Language Model (LLM) i.e LLAMA2. The setup integrates Pinecone for storing vector embeddings and LangChain for retrieving the most relevant answers to user queries based on provided documents.  
 
